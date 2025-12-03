@@ -2,12 +2,12 @@ import Chai from "./chai.jsx"
 
 
 function App() {
- const username="chai aur code"
+ const username="Arijit "
 
   return (
     <>
    <Chai/>
-    <h1>chai aur react {username}</h1>
+    <h1>deployment from {username}</h1>
     </>
 
   )
